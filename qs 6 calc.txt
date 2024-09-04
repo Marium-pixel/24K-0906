@@ -1,0 +1,14 @@
+start 
+ input a,b
+ read numbers a,b
+ characters set to +,-
+ input c
+ read characters c
+ set sum to a + b
+ set dif to a - b
+ if c = +
+ print sum
+ else 
+ print dif
+end
+ 
