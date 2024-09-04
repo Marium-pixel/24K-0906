@@ -1,8 +1,9 @@
 start
-enter number
-read num1
-enter the divisor number
-read num2
+enter num1
+read the num1
+enter the num2
+read the num2
+num2 is the divisor number
 if num1modnum2=0
 num2 is a divisor of num1
 else num2 is not a divisor of num1
