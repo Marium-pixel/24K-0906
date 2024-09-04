@@ -3,7 +3,7 @@ start
  input  b
  input  c
  read  a,b,c
- set  sum to a -(-b) -(-c)
+ sum  = a -(-b) -(-c)
  print  sum
 end
 
