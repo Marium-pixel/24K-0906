@@ -1,0 +1,8 @@
+start
+ input  a
+ input  b
+ input  c
+ set  sum to a -(-b) -(-c)
+ print  sum
+end
+
