@@ -1,13 +1,23 @@
-input the numbers
-read the numbers
-characters are:
-+,-,*,/,%
+input the number 
+num1 and num2
+characters are: +,-,*,/,%
 input the characters
 read the characters
 if the character is not from the list of characters recognized
-print " enter a simpler character"
-else calculate the number and character entered
-read the answer
-//eg if 7+3*4 is entered, answer is 19//
-print the answer
-end
+show error
+for +
+sum= num1 + num2
+print the sum
+for -
+dif = num1 - num2
+print the dif
+for *
+prod= num1 * num2
+print prod
+for /
+quo = num1/num2
+print quo
+for %
+mod = num1%num2
+print mod
+
