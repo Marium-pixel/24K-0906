@@ -4,8 +4,8 @@ start
  characters set to +,-
  input c
  read characters c
- set sum to a + b
- set dif to a - b
+ sum = a + b
+ dif = a - b
  if c = +
  print sum
  else 
