@@ -1,7 +1,5 @@
 start
 enter number 
-if number> 12 
-print "error"
 1= January
 2= February
 3= march
