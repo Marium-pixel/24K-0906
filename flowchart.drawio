@@ -1,0 +1,227 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Page-1" id="hAl5MQub7S67w3BmHevU">
+    <mxGraphModel dx="1050" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-1" target="CTrqstkUDQN0Z2U4YDPR-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-3" target="CTrqstkUDQN0Z2U4YDPR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-3" value="assemble the frame, suspension and exhaust system" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="160" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-5" target="CTrqstkUDQN0Z2U4YDPR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-5" value="install engine" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-7" target="CTrqstkUDQN0Z2U4YDPR-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="441" y="540" />
+              <mxPoint x="441" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-7" value="is the engine installed correctly?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-11" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-14" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-16" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-17" target="CTrqstkUDQN0Z2U4YDPR-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-17" value="install transmission" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-19" target="CTrqstkUDQN0Z2U4YDPR-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-19" value="is the transmission installed correctly?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="810" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-21" value="attach body parts:door, roof etc" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-24" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-25" target="CTrqstkUDQN0Z2U4YDPR-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="1245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-25" value="are the body parts assigned correctly" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1180" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1381.60009765625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-28" value="recheck and fix the alignment" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1215" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-29" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-32" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-33" target="CTrqstkUDQN0Z2U4YDPR-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-33" value="paint the car" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-36" target="CTrqstkUDQN0Z2U4YDPR-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-36" value="install the interior components" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-38" target="CTrqstkUDQN0Z2U4YDPR-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-38" value="are the parts installed correctly?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1600" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-41" target="CTrqstkUDQN0Z2U4YDPR-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="1740" />
+              <mxPoint x="411" y="1740" />
+              <mxPoint x="411" y="1806" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-41" value="recheck and fix the installation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-42" target="CTrqstkUDQN0Z2U4YDPR-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-42" value="inspect the whole car once more" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-43" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-44" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-47" target="CTrqstkUDQN0Z2U4YDPR-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-47" target="CTrqstkUDQN0Z2U4YDPR-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="2045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-47" value="does the car pass all the checks?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1900" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-49" target="CTrqstkUDQN0Z2U4YDPR-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="2090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="2050" />
+              <mxPoint x="401" y="2050" />
+              <mxPoint x="401" y="2082" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-49" value="correct the installation mistakes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-52" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-53" value="no" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTrqstkUDQN0Z2U4YDPR-54" target="CTrqstkUDQN0Z2U4YDPR-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="2180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-54" value="proceed to delivery" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-57" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CTrqstkUDQN0Z2U4YDPR-58" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;FLOWCHART for the assembly of a toyota corolla car&lt;/font&gt;&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-130" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
