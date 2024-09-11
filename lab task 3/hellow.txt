@@ -1,0 +1,11 @@
+
+#include<stdio.h>
+main()
+{
+	float I=300000000;
+	printf("number is: %lf", I);
+	
+	
+}
+ 
+code ca be fixed by using double variable type. it displays entire the correct long integer,just with the decimal placed added :D
