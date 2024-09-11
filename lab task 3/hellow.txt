@@ -8,4 +8,4 @@ main()
 	
 }
  
-code ca be fixed by using double variable type. it displays entire the correct long integer,just with the decimal placed added :D
+//code ca be fixed by using double variable type. it displays entire the correct long integer,just with the decimal placed added :D
