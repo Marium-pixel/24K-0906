@@ -1,6 +1,5 @@
 #include<stdio.h.>
 int main(){
-
 char x;
 printf("enter a single character \n");
 scanf("%c", &x);
