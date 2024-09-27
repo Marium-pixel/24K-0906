@@ -1,0 +1,5 @@
+x=5>8
+this is false so 1 != 2 < 5 is evaluated
+2 is less than five so true --> 1
+1!= 1 is false
+false---> 30
