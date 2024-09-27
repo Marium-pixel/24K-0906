@@ -1,30 +1,22 @@
-
+#include<stdio.h>
 int main(){
-	char weekday,vacation,sleepin;
-	printf("is it a weekday?enter Y-yes or N-no");
-	scanf("%c", &weekday);
-	printf("is it vacation?enter Y-yes or N-no");
-	scanf("%c", &vacation);
-	switch (weekday){
-		case 'Y':
-		switch (vacation){
-		case 'Y':
-			printf("sleepin--->true");
-			break;
-		case 'N':
-			printf("sleepin--->false");
-			break;
-		}
-		break;
-		case 'N':
-		switch (vacation){
-		case 'Y':
-			printf("sleeping--->true");
-			break;
-		case 'N':
-			printf("sleeping--->true");
-			break;
-		}
-		break;
+	int wkday,vacay;
+	printf("is it weekday? 0 or 1 \n");
+	scanf("%d",&wkday);
+	printf(" is it vacay?0 or 1 \n");
+	scanf("%d",&vacay);
+	if (wkday == 0 && vacay == 0){
+		printf(" sleepin");
 	}
+	else if (wkday == 1 && vacay ==0){
+		printf(" not sleepin");
+	}
+	else if ( wkday==1 && vacay == 1){
+		printf("sleepin");
+	}
+	else if (wkday== 0 && vacay == 1){
+		printf("sleepin");
+	}
+
 }
+
