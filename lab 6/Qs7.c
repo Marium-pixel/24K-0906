@@ -5,6 +5,9 @@ int main(){
 		if(i==1){
 		printf("A  B  C  D  E\n");
 		}
+		else if(i==2){
+		printf("B           F\n");
+		}
 		else if(i==3){
 		printf("C           G\n");
 		}
