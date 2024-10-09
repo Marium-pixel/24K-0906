@@ -1,10 +1,16 @@
-//incoreect
 #include<stdio.h>
 int main(){
-	int num;
+	int num,i=2;
 	printf("enter a number");
 	scanf("%d",&num);
-	if((num/2!=0) && (num/3 !=0) && (num/5!=0)){
-		printf(" number is prime");
-	}
+	for (i>2; i<=num*num;i++){
+		if (num%i!=0){
+		printf(" %d is prime", num);
+		break;
+	 }
+	 else if(num%i==0){
+	 	printf(" %d is not prime", num);
+	 	break;
+	 }
+}
 }
