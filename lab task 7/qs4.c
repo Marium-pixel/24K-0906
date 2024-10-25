@@ -4,11 +4,7 @@ int main() {
     char str[100];  
     char *ptr = str;
     int length = 0;
-
-   
     printf("Enter a string: ");
-
- 
     while (1) {
         char abc = getchar();
         if (abc == '\n' || length >= 99) { 
@@ -19,8 +15,6 @@ int main() {
         ptr++;
         length++;
     }
-
- 
     printf("Length of the string: %d\n", length);
 
  
